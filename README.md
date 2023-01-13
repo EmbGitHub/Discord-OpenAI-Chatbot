@@ -20,7 +20,7 @@ git clone https://github.com/EmbGitHub/Discord-OpenAI-Chatbot.git
 
 2. Install the required dependencies
 
-```node
+```Shell
 npm install
 ```
 
@@ -35,7 +35,7 @@ PREFIX=your_prefix
 
 5. Run the bot
 
-```node
+```Shell
 npm start
 ```
 
